@@ -5,4 +5,4 @@ Lenguajes de programacion 🔥
 Ing. Uziel Trujillo Colon
 
 # Estudiantes
-Samuel Peralta Arechiga M20320020
+Samuel Peralta Arechiga MM20320020
